@@ -1,5 +1,5 @@
 # OIBSIP_Data_Analytics_Project1_Level2
-Here’s a clean, professional **README.md** content for your **House Price Prediction** project:
+
 
 ---
 
@@ -7,13 +7,13 @@ Here’s a clean, professional **README.md** content for your **House Price Pred
 
 ## Overview
 
-This project aims to predict house prices based on various features such as location, square footage, number of bedrooms, bathrooms, and other attributes. The prediction is done using machine learning models to assist in estimating property values accurately.
+This project aims to predict house prices based on various features such as location, square footage, number of bedrooms, bathrooms, and other attributes. The prediction is done using linear regression models to assist in estimating property values accurately.
 
 ## Dataset
 
-* **Source:** \[Provide dataset source link if applicable]
+* **Source:** :https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression/input
 * **Description:** The dataset contains details about houses, including:
-
+  * price
   * Location
   * Size (Square Feet)
   * Number of Bedrooms
@@ -65,7 +65,4 @@ The trained model predicts house prices with reasonable accuracy, providing a us
 * Deploy as a web application
 * Add support for real-time data
 
----
 
-If you want, I can also create a **requirements.txt** for this project so that it’s complete for GitHub.
-Do you want me to prepare that?
