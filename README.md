@@ -40,18 +40,18 @@ This project aims to predict house prices based on various features such as loca
   * scikit-learn
   * \[Add others if used]
 
-workflow:
-Load and explore the dataset
+## workflow:
+* Load and explore the dataset
 
-Clean and preprocess the data
+* Clean and preprocess the data
 
-Convert categorical variables into numerical form
+* Convert categorical variables into numerical form
 
-Train a Linear Regression model
+* Train a Linear Regression model
 
-Evaluate performance using metrics such as Mean Squared Error (MSE) and R² Score
+* Evaluate performance using metrics such as Mean Squared Error (MSE) and R² Score
 
-Visualize results for better interpretation
+* Visualize results for better interpretation
 
 
 
